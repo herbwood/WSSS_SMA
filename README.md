@@ -14,7 +14,7 @@ Weakly supervised semantic segmentation (WSSS) employing weak forms of labels ha
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/herbwood/wsss_sma.git
+git clone https://github.com/herbwood/WSSS_SMA.git
 cd LearningToDetour
 conda create -n sma python=3.8
 conda activate sma
